@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gee4Galileo
+- 👋 Hi, I’m @gee4galileo
 - 👀 I’m interested in Data Science, Machine Learning, and Cloud Computing 
 - 🌱 I’m currently learning Machine Learning, Google Cloud Platform and trying to Implement AI Concepts
 - 💞️ I’m looking to collaborate on implementing different machine learning and deep learning models in real world scenarios
